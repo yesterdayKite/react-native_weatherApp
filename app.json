@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fokin-weather",
-    "slug": "fokin-weather",
+    "name": "weatherApp",
+    "slug": "weatherapp",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "for studying react-native",
+    "githubUrl": "https://github.com/yesterdayKite/react-native_weatherApp.git"
   }
 }
